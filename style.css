@@ -139,7 +139,7 @@ body {
 }
 
 .img {
-    background-image: url("/images/wall.jpg");
+    background-image: URL("./images/wall.jpg");
     width: 259px;
     height: 257px;
     border: 1px solid black;
